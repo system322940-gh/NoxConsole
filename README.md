@@ -7,7 +7,8 @@
 - そしたらpython NoxConsole.pyと入力します。
 - そうすると実行できます。
 ### ライセンスについて
-このプロジェクトは [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) の下でライセンスされています。
+- このプロジェクトは [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) の下でライセンスされています。
+- 詳しくはLicenseファイルをご覧ください。
 ### バグなどの報告について
 - バグの報告はdiscordでsystem322940__までdmをくださると助かります。
 ### 公式カスタムコマンドについて
